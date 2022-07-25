@@ -1,2 +1,7 @@
 # Scraping-Quality-of-Life-Index
-Scraping numbeo and writing the data to a CSV
+
+*Gets Quality-of-Life-Index for all of the countries and exports it to a CSV file.*
+
+## Instructions:
+
+• Run extract.py
